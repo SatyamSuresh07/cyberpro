@@ -1,134 +1,49 @@
-🔐 Cybersecurity Projects Portfolio
+Cybersecurity Projects 
 
-Internship Projects – Naviotech Solution (2026)
-Author: Satyam Suresh
+This repository contains academic cybersecurity projects completed during an internship and coursework. The projects focus on phishing awareness, risk assessment, and Zero Trust security models, using practical simulations and industry frameworks.
 
-📌 Overview
+📂 Projects Included
+1️⃣ Phishing Awareness Simulation
 
-This repository contains a collection of academic and practical cybersecurity projects completed as part of a Cybersecurity Internship at Naviotech Solution.
-The projects focus on human-centric security risks, enterprise security architecture, and risk assessment frameworks, aligned with industry standards such as NIST, OWASP, and Zero Trust principles.
+Type: Major Project
+Focus:
 
-The repository includes:
+Email phishing & social engineering
 
-1 Major Project
+Fake login page simulation
 
-2 Minor Projects
+User behavior analysis
 
-Detailed project reports (PDF)
+Awareness & prevention strategies
 
-PowerPoint presentations (PPT) for academic and internship evaluation
+Tools: HTML, CSS, Google Forms, Gmail
 
-Documentation suitable for university submission and examiner review
-🧠 Major Project
-Phishing Awareness Simulation Using Social Engineering Techniques
+2️⃣ Cybersecurity Risk Assessment for SMEs
 
-Objective:
-To ethically simulate phishing attacks in a controlled environment to understand attacker techniques and improve user awareness.
+Type: Minor Project – 1
+Focus:
 
-Key Highlights:
+SME cyber risks (phishing, ransomware, insider threats)
 
-Focus on email-based phishing attacks
+NIST Cybersecurity Framework (CSF)
 
-Study of human behavior and psychological manipulation
+Risk scoring (Likelihood × Impact)
 
-No real credentials collected (ethical compliance)
+Cost-effective mitigation strategies
 
-Analysis of user responses to phishing indicators
+Framework: NIST CSF
 
-Techniques Studied:
+3️⃣ Zero Trust Architecture for Enterprise Security
 
-Email phishing
+Type: Minor Project – 2
+Focus:
 
-Website spoofing
+Zero Trust principles (Never Trust, Always Verify)
 
-Urgency-based messaging
+MFA & RBAC
 
-Brand impersonation
+IAM, micro-segmentation, encryption
 
-Tools & Technologies:
+Enterprise security simulation
 
-HTML & CSS
-
-Google Forms
-
-Gmail
-
-Kali Linux (SET – theoretical)
-
-Key Learning:
-
-Humans are the weakest link in cybersecurity; awareness training is as critical as technical controls.
-
-🧪 Minor Project – 1
-Cybersecurity Risk Assessment Framework for Small and Medium Enterprises (SMEs)
-
-Objective:
-To design a practical and scalable cybersecurity risk assessment framework for SMEs using the NIST Cybersecurity Framework (CSF).
-
-Core Components:
-
-Risk Identification
-
-Risk Evaluation (Likelihood × Impact model)
-
-Risk Classification (Low / Medium / High)
-
-Case-based validation
-
-Threats Covered:
-
-Phishing attacks
-
-Ransomware
-
-Insider threats
-
-Weak authentication
-
-Unpatched systems
-
-Framework Base:
-
-NIST CSF (Identify, Protect, Detect, Respond, Recover)
-
-Outcome:
-Provides SMEs with a cost-effective and easy-to-implement cybersecurity risk management model.
-
-🏗️ Minor Project – 2
-Zero Trust Architecture for Enterprise Security
-
-Objective:
-To design and simulate a Zero Trust security model for modern enterprise environments.
-
-Core Principle:
-
-Never Trust, Always Verify
-
-Security Models Implemented:
-
-Multi-Factor Authentication (MFA)
-
-Role-Based Access Control (RBAC)
-
-Identity & Access Management (IAM)
-
-Key Concepts:
-
-Least privilege access
-
-Continuous authentication
-
-Micro-segmentation
-
-Encrypted communication
-
-Simulation Environment:
-
-VMware / VirtualBox
-
-Docker
-
-Multi-VM enterprise setup including attacker simulation
-
-Result:
-Zero Trust architecture significantly reduced unauthorized access and lateral movement compared to traditional perimeter security.
+Tools: VirtualBox / VMware, Docker
